@@ -1,0 +1,27 @@
+C:\Users\Nail Khusnullin\Desktop\StudentsDB\StudentsDB\bin\StudentsDB.dll
+C:\Users\Nail Khusnullin\Desktop\StudentsDB\StudentsDB\bin\StudentsDB.pdb
+C:\Users\Nail Khusnullin\Desktop\StudentsDB\StudentsDB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nail Khusnullin\Desktop\StudentsDB\StudentsDB\obj\Debug\StudentsDB.dll
+C:\Users\Nail Khusnullin\Desktop\StudentsDB\StudentsDB\obj\Debug\StudentsDB.pdb
+C:\Users\Nail Khusnullin\Desktop\StudentsDB\StudentsDB\bin\MongoDB.Bson.dll
+C:\Users\Nail Khusnullin\Desktop\StudentsDB\StudentsDB\bin\MongoDB.Driver.dll
+C:\Users\Nail Khusnullin\Desktop\StudentsDB\StudentsDB\bin\MongoDB.Bson.xml
+C:\Users\Nail Khusnullin\Desktop\StudentsDB\StudentsDB\bin\MongoDB.Driver.xml
+C:\Users\Ruslan\Desktop\StudentsDB\StudentsDB\bin\StudentsDB.dll
+C:\Users\Ruslan\Desktop\StudentsDB\StudentsDB\bin\StudentsDB.pdb
+C:\Users\Ruslan\Desktop\StudentsDB\StudentsDB\bin\MongoDB.Bson.dll
+C:\Users\Ruslan\Desktop\StudentsDB\StudentsDB\bin\MongoDB.Driver.dll
+C:\Users\Ruslan\Desktop\StudentsDB\StudentsDB\bin\MongoDB.Bson.xml
+C:\Users\Ruslan\Desktop\StudentsDB\StudentsDB\bin\MongoDB.Driver.xml
+C:\Users\Ruslan\Desktop\StudentsDB\StudentsDB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruslan\Desktop\StudentsDB\StudentsDB\obj\Debug\StudentsDB.dll
+C:\Users\Ruslan\Desktop\StudentsDB\StudentsDB\obj\Debug\StudentsDB.pdb
+C:\Users\GRA\Downloads\StudentsDB\StudentsDB\StudentsDB\bin\StudentsDB.dll
+C:\Users\GRA\Downloads\StudentsDB\StudentsDB\StudentsDB\bin\StudentsDB.pdb
+C:\Users\GRA\Downloads\StudentsDB\StudentsDB\StudentsDB\bin\MongoDB.Bson.dll
+C:\Users\GRA\Downloads\StudentsDB\StudentsDB\StudentsDB\bin\MongoDB.Driver.dll
+C:\Users\GRA\Downloads\StudentsDB\StudentsDB\StudentsDB\bin\MongoDB.Bson.xml
+C:\Users\GRA\Downloads\StudentsDB\StudentsDB\StudentsDB\bin\MongoDB.Driver.xml
+C:\Users\GRA\Downloads\StudentsDB\StudentsDB\StudentsDB\obj\Debug\StudentsDB.csprojResolveAssemblyReference.cache
+C:\Users\GRA\Downloads\StudentsDB\StudentsDB\StudentsDB\obj\Debug\StudentsDB.dll
+C:\Users\GRA\Downloads\StudentsDB\StudentsDB\StudentsDB\obj\Debug\StudentsDB.pdb

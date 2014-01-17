@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="Z:\Dropbox\Apps\Azure\kai4305" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/MongoDB.Bson.xml" publishTime="11/22/2013 10:17:01" />
+    <file relUrl="bin/MongoDB.Driver.xml" publishTime="11/22/2013 10:17:01" />
+    <file relUrl="bin/StudentsDB.dll" publishTime="11/22/2013 11:02:18" />
+    <file relUrl="Web.config" publishTime="11/22/2013 11:02:19" />
+    <file relUrl="bin/MongoDB.Driver.dll" publishTime="11/22/2013 10:17:01" />
+    <file relUrl="bin/MongoDB.Bson.dll" publishTime="11/22/2013 10:17:01" />
+    <file relUrl="bin/StudentsDB.pdb" publishTime="11/22/2013 11:02:18" />
+    <file relUrl="Default.aspx" publishTime="11/22/2013 10:48:23" />
+    <file relUrl="packages.config" publishTime="11/22/2013 10:17:02" />
+  </publishProfile>
+</publishData>
